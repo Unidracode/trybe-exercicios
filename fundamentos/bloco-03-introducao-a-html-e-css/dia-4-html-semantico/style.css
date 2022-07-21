@@ -1,5 +1,7 @@
-h1 {
+  h1 {
     text-align: center;
+    display: inline-block;
+    margin-left: 2%;
   }
 
   .first {
@@ -8,6 +10,8 @@ h1 {
     height: 50px;
     text-align: center;
     width: 200px;
+    display: block;
+    margin: auto;
   }
 
   .second {
@@ -16,6 +20,8 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
+    display: inline-block;
+    
   }
 
   .third {
@@ -24,4 +30,13 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
+    display: inline-block;
+  }
+
+  .premiacao {
+    display: inline-block;
+  }
+
+  body {
+    text-align: center;
   }
