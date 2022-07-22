@@ -1,0 +1,47 @@
+div:hover {
+    border: 5px solid;
+}
+
+.div1 {
+    color: blue;
+}
+
+.div2 {
+    color: purple;
+}
+
+.div3 {
+    color: orange;
+    font-size: larger;
+}
+
+.div4 {
+    color: grey;
+}
+
+.div5 {
+    color: palevioletred;
+}
+
+.h3-1 {
+    font-family: Verdana;
+    font-style: italic;
+}
+
+.h3-2 {
+    font-family: Verdana;
+}
+
+.h3-3 {
+    font-family: Verdana;
+    font-style: italic;
+}
+
+.h3-4 {
+    font-family: Verdana;
+}
+
+.h3-5 {
+    font-family: Verdana;
+    font-style: italic;
+}
